@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:obsidian-template",
+      "color": {
+        "a": 1,
+        "rgb": 3944272
+      }
+    },
+    {
+      "query": "file:level",
+      "color": {
+        "a": 1,
+        "rgb": 8043618
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.6,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.713275462622445,
+  "close": true
+}
