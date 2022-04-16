@@ -8,12 +8,8 @@
         "type": "leaf",
         "dimension": 47.15384615384615,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "level-3.md",
-            "mode": "preview",
-            "backlinks": true
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "d6eeea25153e604b"
       },
@@ -43,9 +39,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "level-3.md"
-                  }
+                  "state": {}
                 },
                 "group": "d6eeea25153e604b"
               },
@@ -55,7 +49,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "level-3.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -154,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "level-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,10 +175,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "612531b16ff8b9e3",
+  "active": "6efd7346e69c1d2a",
   "lastOpenFiles": [
-    "level-3.md",
     "obsidian-template/README.md",
+    "level-3.md",
     "obsidian-template/screen.md",
     "obsidian-template/plugins.md",
     "obsidian-template/hotkeys.md",
