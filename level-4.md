@@ -14,6 +14,12 @@ want to understand how Emacs is set up*.
 - `C-x`
     - `C-f` find file
     - windows
+        - `o` switch between windows
+        - `+` balance windows
+        - `0` delete this window
+        - `1` delete all other windows
+        - `2` split window below
+        - `3` split window right
     - frames
     - tabs
     - selection

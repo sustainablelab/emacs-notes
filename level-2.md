@@ -45,6 +45,8 @@ This one-liner `init.el` disables the startup message:
 - Emacs does not open the "GNU Emacs" buffer
     - the buffer with the GNU Emacs logo and the links
 
+That one-liner is Lisp. The rest of [[level-2]] is an intro to Lisp and how to use Lisp within Emacs.
+
 # Lisp
 
 *A quick intro to Lisp and how to run Lisp expression
