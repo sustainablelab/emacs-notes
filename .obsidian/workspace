@@ -4,44 +4,167 @@
     "type": "split",
     "children": [
       {
-        "id": "88fc2db116832195",
+        "id": "612531b16ff8b9e3",
         "type": "leaf",
-        "dimension": 47.15384615384615,
+        "dimension": 20,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "outline",
+          "state": {
+            "file": "level-1.md"
+          }
         },
-        "group": "d6eeea25153e604b"
+        "group": "d6eeea25153e604b",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "612531b16ff8b9e3",
+              "group": "d6eeea25153e604b",
+              "state": "{\"type\":\"outline\",\"state\":{\"file\":\"level-1.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "612531b16ff8b9e3",
+              "group": "d6eeea25153e604b",
+              "state": "{\"type\":\"outline\",\"state\":{\"file\":\"level-4.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "612531b16ff8b9e3",
+              "group": "d6eeea25153e604b",
+              "state": "{\"type\":\"outline\",\"state\":{\"file\":\"level-2.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "612531b16ff8b9e3",
+              "group": "d6eeea25153e604b",
+              "state": "{\"type\":\"outline\",\"state\":{\"file\":\"level-1.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "612531b16ff8b9e3",
+              "group": "d6eeea25153e604b",
+              "state": "{\"type\":\"outline\",\"state\":{\"file\":\"level-3.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "612531b16ff8b9e3",
+              "group": "d6eeea25153e604b",
+              "state": "{\"type\":\"outline\",\"state\":{\"file\":\"level-1.md\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
       },
       {
-        "id": "3cf8c8101337382f",
+        "id": "86b429356bda8cbb",
         "type": "split",
-        "dimension": 52.84615384615384,
+        "dimension": 80,
         "children": [
           {
-            "id": "6efd7346e69c1d2a",
+            "id": "88fc2db116832195",
             "type": "leaf",
-            "dimension": 64.40443213296399,
-            "pinned": true,
+            "dimension": 59.0027700831025,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "level-1.md",
+                "mode": "preview",
+                "backlinks": true
+              }
+            },
+            "group": "d6eeea25153e604b",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "88fc2db116832195",
+                  "group": "d6eeea25153e604b",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"level-1.md\",\"mode\":\"preview\",\"backlinks\":true}}",
+                  "eState": "{\"scroll\":88.29940476190477}"
+                },
+                {
+                  "leaf": "88fc2db116832195",
+                  "group": "d6eeea25153e604b",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"level-3.md\",\"mode\":\"preview\",\"backlinks\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "88fc2db116832195",
+                  "group": "d6eeea25153e604b",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"level-2.md\",\"mode\":\"preview\",\"backlinks\":true}}",
+                  "eState": "{\"scroll\":54}"
+                },
+                {
+                  "leaf": "88fc2db116832195",
+                  "group": "d6eeea25153e604b",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"level-1.md\",\"mode\":\"preview\",\"backlinks\":true}}",
+                  "eState": "{\"scroll\":95.74074074074075}"
+                },
+                {
+                  "leaf": "88fc2db116832195",
+                  "group": "d6eeea25153e604b",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"level-4.md\",\"mode\":\"preview\",\"backlinks\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "88fc2db116832195",
+                  "group": "d6eeea25153e604b",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"level-1.md\",\"mode\":\"preview\",\"backlinks\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "88fc2db116832195",
+                  "group": "d6eeea25153e604b",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"level-2.md\",\"mode\":\"preview\",\"backlinks\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "88fc2db116832195",
+                  "group": "d6eeea25153e604b",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"level-3.md\",\"mode\":\"preview\",\"backlinks\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "88fc2db116832195",
+                  "group": "d6eeea25153e604b",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"level-2.md\",\"mode\":\"preview\",\"backlinks\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "88fc2db116832195",
+                  "group": "d6eeea25153e604b",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"level-1.md\",\"mode\":\"preview\",\"backlinks\":true}}",
+                  "eState": "{\"scroll\":0}"
+                }
+              ]
             }
           },
           {
-            "id": "251b414a55b4bdde",
+            "id": "65e613fc9341e113",
             "type": "split",
-            "dimension": 35.59556786703601,
+            "dimension": 40.99722991689751,
             "children": [
               {
-                "id": "612531b16ff8b9e3",
+                "id": "6efd7346e69c1d2a",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
-                  "type": "outline",
-                  "state": {}
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
                 },
-                "group": "d6eeea25153e604b"
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "6efd7346e69c1d2a",
+                      "group": null,
+                      "state": "{\"type\":\"graph\",\"state\":{},\"pinned\":true}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
               },
               {
                 "id": "9f1656dde2d900a4",
@@ -49,6 +172,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "level-1.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -79,12 +203,35 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.7132754626224425,
+                      "scale": 0.7132754626224427,
                       "close": true
                     }
                   }
                 },
-                "group": "d6eeea25153e604b"
+                "group": "d6eeea25153e604b",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "9f1656dde2d900a4",
+                      "group": "d6eeea25153e604b",
+                      "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"level-3.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":false,\"colorGroups\":[{\"query\":\"file:level\",\"color\":{\"a\":1,\"rgb\":8043618}}],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":false,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":0.7132754626224427,\"close\":true}}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "9f1656dde2d900a4",
+                      "group": "d6eeea25153e604b",
+                      "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"level-4.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":false,\"colorGroups\":[{\"query\":\"file:level\",\"color\":{\"a\":1,\"rgb\":8043618}}],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":false,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":0.7132754626224427,\"close\":true}}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "9f1656dde2d900a4",
+                      "group": "d6eeea25153e604b",
+                      "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"level-1.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":false,\"colorGroups\":[{\"query\":\"file:level\",\"color\":{\"a\":1,\"rgb\":8043618}}],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":false,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":0.7132754626224427,\"close\":true}}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
               }
             ],
             "direction": "vertical"
@@ -109,6 +256,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -124,6 +275,10 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -147,6 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "level-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +311,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -166,6 +326,26 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "b01bd3fe67413eb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "level-1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -175,17 +355,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6efd7346e69c1d2a",
+  "active": "88fc2db116832195",
   "lastOpenFiles": [
-    "obsidian-template/README.md",
+    "level-1.md",
+    "level-4.md",
     "level-3.md",
+    "level-2.md",
+    "obsidian-template/README.md",
     "obsidian-template/screen.md",
     "obsidian-template/plugins.md",
     "obsidian-template/hotkeys.md",
-    "level-1.md",
-    "level-2.md",
     "README.md",
-    "usage.md",
-    "screen.md"
+    "usage.md"
   ]
 }

@@ -8,38 +8,10 @@
     }
   ],
   "backlink:toggle-backlinks-in-document": [],
-  "editor:focus-left": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
-  "editor:focus-right": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
-  "editor:focus-top": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "editor:focus-bottom": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
+  "editor:focus-left": [],
+  "editor:focus-right": [],
+  "editor:focus-top": [],
+  "editor:focus-bottom": [],
   "graph:animate": [],
   "app:go-back": [
     {
@@ -133,6 +105,15 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "workspaces:load": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
     }
   ]
 }
